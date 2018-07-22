@@ -3,4 +3,4 @@
   <project path="frameworks/base/cmds/xposed" name="rovo89/Xposed" remote="github" revision="master"/>
   <remove-project name="platform/art" />
   <project path="art" name="rovo89/android_art" remote="github" revision="xposed-nougat-mr2"/>
-<manifest>
+</manifest>
